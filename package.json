@@ -32,7 +32,7 @@
         "gatsby-source-xkcd": "^1.0.0",
         "gatsby-transformer-remark": "^2.7.1",
         "gatsby-transformer-sharp": "^2.3.13",
-        "prismjs": "^1.23.0",
+        "prismjs": "^1.24.0",
         "react": "^16.5.1",
         "react-dom": "^16.5.1",
         "react-helmet": "^6.0.0",
